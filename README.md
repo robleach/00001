@@ -1,4 +1,4 @@
-00001
+# Uno
 =====
 
-Sho pat na fung la ray
+Sam prese il secchio dentro.
